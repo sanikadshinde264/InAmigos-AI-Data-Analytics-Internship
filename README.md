@@ -39,9 +39,9 @@ The following technologies and tools may be used depending on the assigned tasks
 in amigos-ai-data-analytics-internship/
 │
 ├── 📄 README.md
-├── 📁 tasks/
-├── 📁 projects/
-└── 📁 certificates/
+├── 📁 Tasks/
+├── 📁 Projects/
+└── 📁 Certificates/
 ```
 
 *Note: The folder structure will be updated as internship work and documents are added.*
